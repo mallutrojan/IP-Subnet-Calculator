@@ -1,6 +1,6 @@
 ### IP Address and Subnet Calculator
 
-(https://github.com/mallutrojan/IP-Subnet-Calculator/blob/main/r.png)
+![Subnet Calculator Image](https://github.com/mallutrojan/IP-Subnet-Calculator/blob/main/r.png)
 
 **Description:**
 
