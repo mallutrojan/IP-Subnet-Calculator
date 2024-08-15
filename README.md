@@ -1,5 +1,7 @@
 ### IP Address and Subnet Calculator
 
+
+
 **Description:**
 
 The **IP Address and Subnet Calculator** is a versatile and user-friendly script designed to assist network professionals, students, and enthusiasts in performing a variety of IP and subnet-related calculations. This script supports key functions such as converting IP addresses to binary, calculating subnet masks, determining network and broadcast addresses, and more. It's an essential tool for anyone dealing with IP networking, whether for educational purposes, network design, or troubleshooting.
