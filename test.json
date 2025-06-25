@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: Test
+  version: 1.0.0
+paths:
+  /xss:
+    get:
+      summary: XSS test
+      description: |
+        <img src=x onerror=alert(document.domain)>
+      responses:
+        '200':
+          description: OK
